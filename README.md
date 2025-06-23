@@ -26,10 +26,6 @@ Full BOM with all components, links, and prices can be viewed in the detailed sp
 
 Contributions are welcome. If you make improvements, mods, or find better part alternatives, feel free to open a pull request or share with the community.
 
-## License
-
-MIT License
-
 ---
 
 Print Fast. Print Strong.

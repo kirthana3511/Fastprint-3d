@@ -1,80 +1,73 @@
-# Fast Print Journal
+# fast print: chaos log
 
-total no of hours spent: 14 to 15 hours
+total hours 40
 
-yo. this is the behind-the-scenes log for Fast Print.  
-before anything even prints, we gotta do the boring smart person stuff.  
-here’s me pretending to be an engineer. enjoy.
+yo. this is the behind-the-scenes mess for Fast Print  
+before anything even prints, had to do brain gymnastics  
+aka fake engineer mode. here’s what went down (it’s unhinged)
 
-—
+---
 
-**June 15**  
-2 hours just sketching dumb ideas on paper  
-thought i was designing a spaceship but it’s just a rectangle with motors  
-also made a folder called “cool printer stuff” feeling organized af
+**june 15**  
+4 hrs ?? just sketching stuff that looked cool but made zero sense  
+thought i was designing a mars rover lol it’s literally a square with motors  
+made a folder called “cool printer stuff” cuz vibes
 
-—
+---
 
-**June 16**  
-spent like 3 hours on fusion 360 making the frame model  
-forgot how constraints work halfway through  
-dimensioned the whole steel frame, it actually looks real now  
-started feeling like i could build NASA rockets next
+**june 16**  
+6 hrs in fusion 360. modeling the frame.  
+constraints broke. brain broke. everything broke.  
+dimensioned the steel frame tho.  
+looked at it and whispered “i am inevitable” or some dumb marvel line
 
-—
+---
 
-**June 17**  
-1 hour deep dive on linear rails  
-THK? HIWIN? clone? idk anymore bro  
-settled on THK rails cos they sound elite  
-also read 2 reddit threads and now i have trust issues
+**june 17**  
+2 hrs deep diving on linear rails. too many brands. too much stress  
+THK? HIWIN? wish.com clone? who even knows anymore  
+reddit said don’t trust clones. i now don’t trust reddit either
 
-—
+---
 
-**June 18**  
-2.5 hours scrolling through shopee + random sites  
-added like 20 tabs of extruders, hotends, fans, more fans, fans for the fans  
-accidentally almost bought an aquarium filter. focus = zero.  
-finally started making the BOM tho
+**june 18**  
+5 hrs straight lost on shopee and random sketchy sites  
+40 tabs open. most were fans. fans for hotends. fans for fans.  
+accidentally almost bought an aquarium filter  
+started BOM but it’s like... 10% done max
 
-—
+---
 
-**June 19**  
-measurements day. 1.5 hours of me with a tape measure and a calculator  
-measuring the steel frame tubes, checking what length i can get from local shops  
-also looked at aluminum profiles like i have aluminum money (i don’t)  
-final measurements = chef’s kiss
+**june 19**  
+3 hrs measuring steel tubes with a calculator that kept dying  
+checked if local shops had good sizes  
+also browsed aluminum profiles knowing i have 0 aluminum budget  
+final measurements were oddly satisfying
 
-—
+---
 
-**June 20**  
-firmware rabbit hole. marlin, klipper, reprap… help  
-2 hours just comparing features like a nerd  
-klipper looks spicy. might go with that. need more research tho  
-started watching random klipper videos at 2am. brain = fried
+**june 20**  
+6 hrs in firmware jail. marlin vs klipper vs reprap  
+klipper seems cool but also looks like it’ll kill my sleep schedule  
+watched 3 vids at 2am. absorbed 0% info  
+note to self: firmware is fake and made up
 
-—
+---
 
-**June 21**  
-frame reinforcement planning for 1 hour  
-trying to figure out if my design will collapse or not  
-spoiler: probably yes. but that’s future me’s problem  
-also figured out where to mount the PSU. progress.
+**june 21**  
+3 hrs of trying to make sure my frame doesn’t collapse like my motivation  
+reinforcements = half-cooked  
+figured out where PSU can sit without frying everything  
+probably fine. idk. future me will scream
 
-—
+---
 
-**June 22**  
-finalized the BOM (for now) took like 2 hours because i kept switching tabs like a goldfish  
-found the perfect extruder. also found a meme. balanced productivity.  
-printer’s gonna be ✨ speedy ✨ once this thing’s real
+**june 22**  
+5 hrs trying to finalize BOM. tabs kept multiplying like rabbits  
+found a decent extruder  
+also found a meme that sent me  
+productivity = 51% memes, 49% panic
 
-—
+---
 
-**TOTAL HOURS SPENT ON RESEARCH/DESIGN PHASE:**  
-around 14 to 15 hours of brain pain and tabs  
-haven’t even touched a bolt yet. life’s wild.  
-3D model = ✔️  
-measurements = ✔️  
-BOM = ✔️  
-firmware = kinda ✔️ but also kinda ???  
-we move 🔥
+

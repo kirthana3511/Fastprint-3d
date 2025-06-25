@@ -27,6 +27,8 @@ Full BOM with all components, links, and prices can be viewed in the detailed sp
 Contributions are welcome. If you make improvements, mods, or find better part alternatives, feel free to open a pull request or share with the community.
 
 ## pictures
+![Preview](https://github.com/user-attachments/assets/9d63e3a6-c7e3-4abc-8770-bebf6e3e99fd)
+
 ![image](https://github.com/user-attachments/assets/b5624ccd-a8ec-4b94-9d61-292daa66b3b8)
 
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/08424a2a-3433-4030-a00a-43a682c71bd3" />
